@@ -1,1 +1,1 @@
-this project i will put into practice what i learned in about html by making a recipe website.
+this project i will put into practice what i learned about html by making a recipe website.
